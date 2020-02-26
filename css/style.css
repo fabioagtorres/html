@@ -1,3 +1,42 @@
 body {
-    background: rgb(167, 221, 190);
+    background: rgb(100, 9, 9);
+    margin-left: 300px;
+    margin-right: auto;
+    }
+
+header { 
+    margin-top: 80px;
+
+}
+
+h1 {
+    color: salmon;
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+}
+
+h2 {
+    font-family: monospace;
+    outline-color: slateblue;
+}
+
+p {
+    font-size: 20px;
+}
+
+.img_comemos {
+    margin-bottom: 100px;
+    width: 300px;
+}
+
+.onde_vivemos {
+    margin-bottom: 200px;
+    width: 300px;
+}
+
+.img_ervas {
+    width: 300px;
+    margin-bottom: 100px;
+    motion-rotation: 360deg;
+    
 }
